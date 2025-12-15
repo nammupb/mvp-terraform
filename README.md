@@ -39,6 +39,7 @@ mvp-terraform/
         └── outputs.tf
 ```
 ## Architecture Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f42632f-f8aa-42d0-aa28-55f8eca3f3ed" />
 
 
 ## How the System Works
