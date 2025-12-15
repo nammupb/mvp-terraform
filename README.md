@@ -12,8 +12,6 @@ It uses Terraform to *define* AWS resources but is **never deployed** (sandbox o
 - EC2 uploads the resized image to S3.
 - Returns the resized image URL.
 
-## AWS Services Used
-
 ## Features
 - EC2 instance running a Flask + Pillow image-resizing microservice  
 - S3 bucket for storing original + resized images  
